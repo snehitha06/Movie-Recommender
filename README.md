@@ -19,7 +19,7 @@ This is a HTML, CSS, JAVASCRIPT movie website project where users can come and w
 - Download or clone the repository
 
 ```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+git clone https://github.com/snehitha06/Movie-Recommender.git
 ```
 
 - Go to the directory
