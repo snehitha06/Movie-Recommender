@@ -1,4 +1,4 @@
-# Welcome 🖐 to the Movie App
+# Binge Nation-Movie Site
 This is a HTML, CSS, JAVASCRIPT movie website project where users can come and watch any movie from this website.
 
 
@@ -50,7 +50,7 @@ Built with Vanilla JavaScript. Below is a list of the methods and properties use
 * target
 
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/69567782/208230995-cf3e6384-5ed1-4039-8d85-a10f456c4059.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/69567782/208231014-3ccb2ebf-4f14-4bb6-b20a-459bf6339145.png">
 
-
-https://user-images.githubusercontent.com/72425181/126938947-7b21a74b-6db3-4835-b1f3-6ee6eb70149c.mp4
 
